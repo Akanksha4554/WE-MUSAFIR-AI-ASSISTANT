@@ -11,7 +11,7 @@ Welcome to the **WE-MUSAFIR-AI-ASSISTANT** project! This AI assistant is designe
 ![IBM Watson](https://img.shields.io/badge/IBM_Watson-Cloud-blue?style=plastic&logo=ibm)
 ![AI](https://img.shields.io/badge/AI-Artificial_Intelligence-red?style=plastic)
 ![Travelling Tour](https://img.shields.io/badge/Travelling_Tour-Adventure-green?style=plastic)
-![IBM Intern](https://img.shields.io/badge/IBM_Intern-Experience-blue?style=plastic&logo=ibm)
+![IBM Intern](https://img.shields.io/badge/IBM_Intern-Teamwork-blue?style=plastic&logo=ibm)
 
 ## Project Overview
 
