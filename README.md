@@ -1,6 +1,5 @@
 
-# WE-MUSAFIR-AI-ASSISTANT
-
+# WE-MUSAFIR-AI-ASSISTANT 
 Welcome to the **WE-MUSAFIR-AI-ASSISTANT** project! This AI assistant is designed to enhance your travel experience by providing intelligent recommendations, itineraries, and travel assistance.
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=plastic&logo=html5)
